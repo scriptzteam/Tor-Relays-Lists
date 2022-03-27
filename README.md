@@ -13,7 +13,7 @@ https://tor-relays.0xc0d3.xyz/updated.txt
 
 The Onionoo API offers authoritative information on the state of the Tor Network, including the IP addresses of all relays and the purposes they serve (i.e., guard, exit, etc.). However, JSON-based REST APIs and the Tor Project's exit list aren't the friendliest methods for maintaining firewall rules and other applications that are supposed to consume IP lists.
 
-If you would like a raw list of Tor relays you can visit these links bellow, where you will find a selection of maintained IP address lists for relays that participate in the Tor Network.
+If you would like a raw list of Tor relays you can visit these links below, where you will find a selection of maintained IP address lists for relays that participate in the Tor Network.
 
 ```
     exits.txt: Exit relays only, IPv4 and IPv6. Use this list to block traffic to your site from the Tor Network.
