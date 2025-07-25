@@ -2,13 +2,13 @@
 Tor Relays Lists
 
 ```
-https://tor-relays.0xc0d3.xyz/exits.txt
-https://tor-relays.0xc0d3.xyz/exits-ipv4.txt
-https://tor-relays.0xc0d3.xyz/exits-ipv6.txt
-https://tor-relays.0xc0d3.xyz/relays.txt
-https://tor-relays.0xc0d3.xyz/relays-ipv4.txt
-https://tor-relays.0xc0d3.xyz/relays-ipv6.txt
-https://tor-relays.0xc0d3.xyz/updated.txt
+https://tor-relays.0xc0d3.cc/exits.txt
+https://tor-relays.0xc0d3.cc/exits-ipv4.txt
+https://tor-relays.0xc0d3.cc/exits-ipv6.txt
+https://tor-relays.0xc0d3.cc/relays.txt
+https://tor-relays.0xc0d3.cc/relays-ipv4.txt
+https://tor-relays.0xc0d3.cc/relays-ipv6.txt
+https://tor-relays.0xc0d3.cc/updated.txt
 ```
 
 The Onionoo API offers authoritative information on the state of the Tor Network, including the IP addresses of all relays and the purposes they serve (i.e., guard, exit, etc.). However, JSON-based REST APIs and the Tor Project's exit list aren't the friendliest methods for maintaining firewall rules and other applications that are supposed to consume IP lists.
